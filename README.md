@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbeloff
-- 👀 I’m interested in art, music, code
+- 👀 I’m interested in art, music, colour, web development
 - 🌱 I’m currently learning Vue 3, working with REST APIs to develop a booking/scheduling system
 - 📫 How to reach me michael.a.beloff@gmail.com
 
