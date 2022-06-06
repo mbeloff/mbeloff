@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbeloff
 - 👀 I’m interested in web development, art. music and colour.
-- 🌱 I’m currently working with Vue 3, tailwind and REST APIs to develop a rental booking/scheduling system
+- 🌱 I’m currently working with Vue 3's composition API, tailwind and REST APIs to develop rental booking systems. Dipping my toes into Rust.
 - 📫 How to reach me michael.a.beloff@gmail.com
 
 <!---
