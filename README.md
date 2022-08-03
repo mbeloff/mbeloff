@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbeloff
-- 🌱 I’m currently working with Vue 3's composition API, tailwind and REST APIs to develop rental booking systems.
+- 🌱 I’m currently working with Nuxt3, Vue3, tailwind and REST APIs to develop rental booking systems.
 - 📫 How to reach me michael.a.beloff@gmail.com
 
 <!---
