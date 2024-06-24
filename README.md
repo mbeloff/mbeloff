@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 🌱 I’m currently working with Nuxt3, Vue3, tailwind and REST APIs to develop websites and booking systems.
+- 🌱 Tailwind changed my life.
 - 📫 How to reach me michael.a.beloff@gmail.com
 
 <!---
